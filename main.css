@@ -1,0 +1,51 @@
+body{
+    font-family: 'Carter One', Arial, Helvetica, sans-serif sans-serif;
+    font-size: 25px;
+    line-height: 1.7;
+     background-color: #f7dcc8 ;
+   }
+   
+   .cta{
+       max-width: 50ch;
+       margin: 10em auto;
+       background-color: #2C3639;
+       color: white;
+       padding: 0.1em;
+       border-radius: 1em;
+   }
+   
+   
+   .cta a {
+       display: block; 
+   
+       font-family: 'Carter One', Palatino Linotype serif;
+       text-decoration: none;
+       text-align: center;
+   
+       background-color: #A27B5C;
+       color: white;
+       
+       padding: 1em;
+       margin: 1em;
+       margin-top: 2em;
+       border-radius: 1em;
+   } 
+   
+   .cta a:hover{
+       color: #A27B5C;
+       background-color: white;
+   }
+   
+   .cta a:active {
+       color: #E6B325;
+       background-color: #61481C;
+   }
+   img{
+     display: block;
+     width: 100%;
+     border:3px solid #94B49F;
+     margin: 1em 0;
+     margin: auto;
+     overflow: hidden;  
+     object-fit: fill;
+
